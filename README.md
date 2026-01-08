@@ -1,19 +1,19 @@
-## Introducing Myself👋
+## Introducing Myself
 ![intro-banner](https://github.com/stujie/stujie/blob/main/GitHub%20Banner.png?raw=true)
 ---
 Hi, I'm Stutie! I am an aspiring data science student, hoping to specialize in machine learning and predictive modeling and it's impact on gaming industries
 
 <!--### 📗 Fields of Interest -->
 
-### 📚 Projects
+### Projects
 This portfolio of projects highlight my ongoing journey with data analytics.
 
-### 💻 Technical Skills
+### Technical Skills
 - Languages: R, Python, SQL
 - Database: MySQL
 - Visualization: Tableau
 
-### 🤝 Connect with Me
+### Connect with Me
 - LinkedIn
 - Handshake
 ---
