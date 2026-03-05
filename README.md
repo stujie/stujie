@@ -9,7 +9,7 @@ Hi, I'm Stutie! I am an aspiring data science student, hoping to specialize in m
 These [projects and courses](https://github.com/stujie/my-data-analytics-journey) highlight my ongoing journey with data analytics.
 
 ### Technical Skills
-- Languages: R, Python, SQL
+- Languages: Java, C++, R, Python, SQL
 - Database: MS SQL
 - Visualization: Tableau, PowerBI
 
