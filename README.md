@@ -6,7 +6,8 @@ Hi, I'm Stutie! I am an aspiring data science student, hoping to specialize in m
 <!--### 📗 Fields of Interest -->
 
 ### Projects
-These [projects and courses](https://github.com/stujie/my-data-analytics-journey) highlight my ongoing journey with data analytics.
+- Welcome to my [portfolio](https://github.com/stujie/my_portfolio)!
+- I also have a list of [learning resources](https://github.com/stujie/my-data-analytics-journey) that highlight my ongoing learning journey in the world of data analytics.
 
 ### Technical Skills
 - Languages: Java, C++, R, Python, SQL
