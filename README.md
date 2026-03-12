@@ -6,7 +6,7 @@ Hi, I'm Stutie! I am an aspiring data science student, hoping to specialize in m
 <!--### 📗 Fields of Interest -->
 
 ### Projects
-- Welcome to my [portfolio](https://github.com/stujie/my_portfolio)!
+- Welcome to my [portfolio](https://github.com/stujie/portfolio_guide)!
 - I also have a list of [learning resources](https://github.com/stujie/my-data-analytics-journey) that highlight my ongoing learning journey in the world of data analytics.
 
 ### Technical Skills
