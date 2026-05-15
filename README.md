@@ -6,11 +6,11 @@ Hi, I'm Stutie! I am an aspiring data science student, hoping to specialize in m
 <!--### 📗 Fields of Interest -->
 
 ### Projects
-- Welcome to my [portfolio](https://github.com/stujie/portfolio_guide)!
+- Currently working on: [Spotify Data Analysis](https://github.com/stujie/spotify_data_analysis)
 - I also have a list of [learning resources](https://github.com/stujie/my-data-analytics-journey) that highlight my ongoing learning journey in the world of data analytics.
 
 ### Technical Skills
-- Languages: Java, C++, R, Python, SQL
+- Languages: Java, C++, Python, SQL, R
 - Database: MS SQL
 - Visualization: Tableau, PowerBI
 
