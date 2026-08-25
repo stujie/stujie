@@ -1,7 +1,7 @@
 ## Introducing Myself
 ![intro-banner](https://github.com/stujie/stujie/blob/main/GitHub%20Banner.png?raw=true)
 ---
-Hi, I'm Stutie! I am an aspiring data science student, hoping to specialize in machine learning and predictive modeling and it's impact on the tech industry.
+Hi, I'm Stutie! I am an aspiring data science student, hoping to specialize in machine learning and predictive modeling.
 
 <!--### 📗 Fields of Interest -->
 
